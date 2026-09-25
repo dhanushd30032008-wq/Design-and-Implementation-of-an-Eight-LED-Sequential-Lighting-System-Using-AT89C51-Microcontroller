@@ -236,7 +236,7 @@ The sequence repeats continuously.
 
 ## Output
 
-<img width="536" height="489" alt="Screenshot 2026-09-25 142723" src="https://github.com/user-attachments/assets/0ac06acc-aff7-45c9-a78d-169c3f3a67ab" />
+<img width="1156" height="843" alt="Screenshot 2026-09-25 143840" src="https://github.com/user-attachments/assets/ca6fcc7b-a35b-4404-92dd-aa9bbfe46ab3" />
 
 
 ##  Applications

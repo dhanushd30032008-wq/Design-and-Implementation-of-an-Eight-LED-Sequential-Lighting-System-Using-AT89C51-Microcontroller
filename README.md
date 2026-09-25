@@ -247,6 +247,13 @@ This type of sequential lighting system can be used in:
 * Microcontroller learning projects
 
 ---
+
+## OUTPUT
+
+<img width="1156" height="843" alt="Screenshot 2026-09-25 143840" src="https://github.com/user-attachments/assets/ca6fcc7b-a35b-4404-92dd-aa9bbfe46ab3" />
+
+
+
 ##  Result
 
 The eight-LED sequential lighting system using the AT89C51 microcontroller** was successfully designed and implemented. The eight LEDs connected to Port 2 of the AT89C51 glowed **sequentially from LED1 to LED8 with a predefined time delay. The sequence was repeated continuously, producing a running-light effect.Thus, the required sequential LED lighting operation was successfully achieved and verified through simulation.
